@@ -1,2 +1,2 @@
 # java-repl-jar
-java-repl jar backup
+Backup for javarepl.jar from http://albertlatacz.published.s3.amazonaws.com/javarepl/javarepl.jar
